@@ -1,1 +1,1 @@
-cmd /c echo "testok">d:\testok.txt
+cmd /c echo "testok"
