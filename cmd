@@ -1,1 +1,2 @@
-cmd /c powershell echo test
+cmd /c powershell echo test &&echo "                       "
+
